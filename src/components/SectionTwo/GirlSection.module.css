@@ -1,14 +1,12 @@
 .BlockG{
   width: 100%;
   height: 500px;
-  border: 1px solid black;
   margin-top: 40px;
   display: flex;
   .glavBlock{
     width: 700px;
     height: 500px;
   background-color: #62D0DF;
-  border: 1px solid black;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -31,7 +29,6 @@
   .secondBlock{
     width: 600px;
     height: 500px;
-    border: 1px solid black;
     .imgF{
       width: 100%;
       height: 500px;

@@ -1,12 +1,10 @@
 .clocl{
   width: 100%;
   height: 350px;
-  border: 1px solid black;
   display: flex;
   .blockFirst{
     width: 400px;
     height: 350px;
-    border: 1px solid black;
     p{
       color: var(--font-color);
       margin-top: 45px;
@@ -16,7 +14,6 @@
   .blockSecond{
     width: 500px;
     height: 350px;
-    border: 1px solid black;
     display: flex;
     flex-direction: column;
     justify-content: end;
